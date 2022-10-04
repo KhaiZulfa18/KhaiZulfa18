@@ -18,3 +18,5 @@
 </p>
 
 ![Khai Zulfa's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaiZulfa18&show_icons=true&theme=radical)
+
+![Khai Zulfa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaiZulfa18&theme=radical&layout=compact)
