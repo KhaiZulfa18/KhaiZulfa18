@@ -3,7 +3,7 @@
 
 :indonesia: Indonesia
 <br>
-:link: <a href="https://khaizulfa.my.id">khaizulfa.my.id</a>
+:link: <a href="https://rotrio.vercel.app">Reach Me!</a>
 
 <p align="">
   <a href="https://twitter.com/kaizuro_">
