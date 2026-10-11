@@ -20,4 +20,4 @@
   <img src="https://skillicons.dev/icons?i=laravel,php,mysql,react,nextjs,ts,tailwind,git">
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KhaiZulfa18&theme=tokyonight&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&card_width=500&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KhaiZulfa18&theme=tokyonight&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun,Sat&card_width=500&card_height=200)](https://git.io/streak-stats)
